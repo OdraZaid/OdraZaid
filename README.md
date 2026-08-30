@@ -1,14 +1,13 @@
 <h1 align="center">Hola, soy Ricardo Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 <p align="center">
-    <img src="assets/LogoMarcaPersonal.png" alt="Logo Ricardo Diaz" srcset="" width="100%">
+    <img src="assets/LogoMarcaPersonal.png" alt="Logo Ricardo Diaz" srcset="" width="80%">
 </p>
-
 
 <br>
 
-
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>
+
 About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
@@ -16,16 +15,15 @@ About me
 
 <br><br>
 
-💻 Cuento con 2 años de experiencia en diferentes proyectos para empresas. Especializado en 
-diseño web. Autodidacta y apasionado por la tecnología he recorrido este camino 
-con gran entusiasmo, siempre esforzandome por no parar de aprender.
+💻 Desarrollador Full Stack con dos años de experiencia en el sector tecnológico, donde he enfrentado desafíos que
+fortalecieron mi capacidad de adaptación y resiliencia. Me especializo en diseño web y en la construcción de soluciones
+que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de aprender y busco crecer profesionalmente aportando valor en cada equipo de trabajo.
 <br><br>
 
-
-
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
+
 </picture> Connect with me
+
 <p align="center">
     <a href="precursorenriodeorotj@gmail.com"><img img
             src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
@@ -44,24 +42,23 @@ con gran entusiasmo, siempre esforzandome por no parar de aprender.
     
 </p>
 
-
-
 ## 🛠️ My Skills
+
 <br><br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,dart" />
   </a>
 </p>
-        
 
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px>
+
 </picture> Frontend Development
+
 <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,css,html,tailwind,bootstrap" />
@@ -70,6 +67,7 @@ con gran entusiasmo, siempre esforzandome por no parar de aprender.
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px>
+
 </picture> Software & Tools
 
 <p align="center">
@@ -79,6 +77,7 @@ con gran entusiasmo, siempre esforzandome por no parar de aprender.
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px> </picture>
+
 IDEs
 
 <p align="center">
@@ -88,6 +87,7 @@ IDEs
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=50px> </picture>
+
 Bases de Datos
 
 <p align="center">
@@ -97,6 +97,7 @@ Bases de Datos
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture>
+
 Operating Systems
 
 <p align="center">
@@ -115,6 +116,7 @@ Operating Systems
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px>
+
 </picture> Github Stats
 
 <details>
@@ -124,8 +126,10 @@ Operating Systems
 
     ----
 
-    <p align="center"><a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=OdraZaid&hide_border=falso&locale=es&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
+    <p align="center">
+        <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=OdraZaid&hide_border=false&locale=es&short_numbers=false&date_format=j/n[/Y]&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
+        </a>
     </p>
 
 </details>
