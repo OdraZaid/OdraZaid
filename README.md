@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Ricardo Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 <p align="center">
-    
+    <img src="assets/LogoMarcaPersonal.png" alt="Logo Ricardo Diaz" srcset="" width="100%">
 </p>
 
 
@@ -17,8 +17,8 @@ About me
 <br><br>
 
 💻 Cuento con 2 años de experiencia en diferentes proyectos para empresas. Especializado en 
-JavaScript, Node.js, React, MongoDB, MySQL, SQL, HTML/CSS. Con conocimientos básicos en Java y Python, 
-además de experiencia en el uso de AI para maximizar el trabajo. Autodidacta y apasionado por la tecnología.
+diseño web. Autodidacta y apasionado por la tecnología he recorrido este camino 
+con gran entusiasmo, siempre esforzandome por no parar de aprender.
 <br><br>
 
 
@@ -47,9 +47,9 @@ además de experiencia en el uso de AI para maximizar el trabajo. Autodidacta y 
 
 
 ## 🛠️ My Skills
+<br><br>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true"
-        width=50px> </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 
 <p align="center">
