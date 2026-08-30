@@ -13,7 +13,7 @@ About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
         width=250px></picture>
 
-<br><br>
+<br>
 
 💻 Desarrollador Full Stack con dos años de experiencia en el sector tecnológico, donde he enfrentado desafíos que
 fortalecieron mi capacidad de adaptación y resiliencia. Me especializo en diseño web y en la construcción de soluciones
@@ -116,23 +116,14 @@ Operating Systems
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px>
-
 </picture> Github Stats
+<br>
 
-<details>
-    <summary>
-        <h3> 🔥 Streak Stats</h3>
-    </summary>
-
-    ----
-
-    <p align="center">
-        <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=OdraZaid&hide_border=false&locale=es&short_numbers=false&date_format=j/n[/Y]&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
-        </a>
-    </p>
-
-</details>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=OdraZaid&hide_border=false&locale=es&short_numbers=false&date_format=j/n[/Y]&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 </br></br>
