@@ -130,9 +130,17 @@ Donde he estudiado
 <p align='center'>
 
 <img src='assets/alura.jpg' alt='imagen de Alura Latam'>
-<img src='assets/platzi.png' alt='imagen de Platzi'>
+<img src='assets/platzi-logo-huge.png' alt='imagen de Platzi'>
 <img src='assets/oracle.png' alt='imagen de Oracle University'>
 
+</p>
+
+##
+Ultimos cursos tomados
+
+<p align='center'>
+<img src='assets/Oracle1.png' alt='curso Cloud Business Jumpstart: Training and Assessment'>
+<img src='assets/oracleIA.png' alt='curso IA for you'>
 </p>
 
 
