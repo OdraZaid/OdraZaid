@@ -18,7 +18,7 @@
 💻 Desarrollador Full Stack con dos años de experiencia en el sector tecnológico, donde he enfrentado desafíos que
 fortalecieron mi capacidad de adaptación y resiliencia. Me especializo en diseño web y en la construcción de soluciones
 que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de aprender y busco crecer profesionalmente aportando valor en cada equipo de trabajo.
-<br><br>
+<br>
 
 <br>
 
@@ -96,7 +96,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
 <br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture>Operating Systems
-
+<br>
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,kali" />
