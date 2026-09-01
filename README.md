@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ricardo Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hi, I am Ricardo Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 <p align="center">
     <img src="assets/LogoMarcaPersonal.png" alt="Logo Ricardo Diaz" srcset="" width="80%">
@@ -83,12 +83,14 @@ IDEs
 <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+    <img src="assets/opencode.png" />
+    <img src="assets/cursor-vertical-logo-png_seeklogo-653114.png" />
   </a>
 </p>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=50px> </picture>
 
-Bases de Datos
+Databases
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -126,7 +128,7 @@ Operating Systems
 </p>
 
 ## 
-Donde he estudiado
+Where I have studied
 <p align='center'>
 
 <img src='assets/alura.jpg' alt='imagen de Alura Latam'>
@@ -137,7 +139,7 @@ Donde he estudiado
 </p>
 
 ##
-Ultimos cursos tomados
+Most recent courses taken
 
 <p align='center'>
 <img src='assets/Oracle1.png' alt='curso Cloud Business Jumpstart: Training and Assessment'>
