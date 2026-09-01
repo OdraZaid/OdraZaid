@@ -21,6 +21,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
 <br><br>
 
 <br>
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture>Connect with me
 <br>
 
@@ -38,6 +39,8 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"
             alt="LinkedIn" /></a>    
 </p>
+
+<br>
 
 ## 🛠️ My Skills
 
@@ -102,12 +105,13 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
 
 <br>
 
----
+
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt="Quote"
             src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+<br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> Github Stats
 <br>
