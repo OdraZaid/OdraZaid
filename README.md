@@ -132,6 +132,7 @@ Donde he estudiado
 <img src='assets/alura.jpg' alt='imagen de Alura Latam'>
 <img src='assets/platzi-logo-huge.png' alt='imagen de Platzi'>
 <img src='assets/oracle.png' alt='imagen de Oracle University'>
+<img src='assets/santander-universidades.png' alt='imagen de Santander Universidad'>
 
 </p>
 
