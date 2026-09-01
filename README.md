@@ -20,7 +20,9 @@ fortalecieron mi capacidad de adaptación y resiliencia. Me especializo en dise�
 que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de aprender y busco crecer profesionalmente aportando valor en cada equipo de trabajo.
 <br><br>
 
+<br>
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture>Connect with me
+<br>
 
 <p align="center">
     <a href="precursorenriodeorotj@gmail.com"><img img
@@ -34,15 +36,12 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
             alt="Whatsapp" /></a>
     <a href="https://www.linkedin.com/in/ricardo-díaz-b27045395"><img
             src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"
-            alt="LinkedIn" /></a>
-    
-    
-    
+            alt="LinkedIn" /></a>    
 </p>
 
 ## 🛠️ My Skills
 
-<br><br>
+<br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
 
@@ -52,6 +51,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
   </a>
 </p>
 
+<br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px></picture>Frontend Development
 
@@ -61,6 +61,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
   </a>
     
 </p>
+<br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px></picture> Software & Tools
 
@@ -69,6 +70,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vite,powershell,express,postman,pnpm,npm,materialui,jest,discord,babel" />
   </a>
 </p>
+<br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px></picture>IDEs
 
@@ -79,6 +81,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
     <img src="assets/cursor-vertical-logo-png_seeklogo-653114.png" />
   </a>
 </p>
+<br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=50px> </picture>Databases
 
@@ -87,6 +90,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
+<br>
 
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture>Operating Systems
 
@@ -113,6 +117,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
     <img src="https://github-readme-streak-stats.herokuapp.com?user=OdraZaid&hide_border=false&locale=es&short_numbers=false&date_format=j/n[/Y]&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" />
   </a>
 </p>
+<br>
 
 ## Where I have studied
 <p align='center'>
@@ -123,6 +128,7 @@ que optimizan procesos empresariales. Autodidacta por convicción, nunca dejo de
 <img src='assets/santander-universidades.png' alt='imagen de Santander Universidad'>
 
 </p>
+<br>
 
 ## Most recent courses taken
 
