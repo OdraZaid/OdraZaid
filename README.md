@@ -125,6 +125,15 @@ Operating Systems
   </a>
 </p>
 
+## 
+<p align='center'>
+Donde he estudiado
+<img src='assets/alura.jpg' alt='imagen de Alura Latam'>
+<img src='assets/platzi.png' alt='imagen de Platzi'>
+<img src='assets/oracle.png' alt='imagen de Oracle University'>
+
+</p>
+
 
 </br></br>
 
