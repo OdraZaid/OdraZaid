@@ -6,7 +6,7 @@
 
 <br>
 
-## About me<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>About me
 
 
 
@@ -20,9 +20,7 @@ fortalecieron mi capacidad de adaptaci처n y resiliencia. Me especializo en dise�
 que optimizan procesos empresariales. Autodidacta por convicci처n, nunca dejo de aprender y busco crecer profesionalmente aportando valor en cada equipo de trabajo.
 <br><br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
-
-</picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture>Connect with me
 
 <p align="center">
     <a href="precursorenriodeorotj@gmail.com"><img img
@@ -55,9 +53,7 @@ que optimizan procesos empresariales. Autodidacta por convicci처n, nunca dejo de
 </p>
 
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px>
-
-</picture> Frontend Development
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px></picture>Frontend Development
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -66,9 +62,7 @@ que optimizan procesos empresariales. Autodidacta por convicci처n, nunca dejo de
     
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px>
-
-</picture> Software & Tools
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px></picture> Software & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -76,9 +70,7 @@ que optimizan procesos empresariales. Autodidacta por convicci처n, nunca dejo de
   </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px> </picture>
-
-IDEs
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=50px></picture>IDEs
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -88,9 +80,7 @@ IDEs
   </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=50px> </picture>
-
-Databases
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=50px> </picture>Databases
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -98,9 +88,7 @@ Databases
   </a>
 </p>
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture>
-
-Operating Systems
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=50px> </picture>Operating Systems
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -117,8 +105,7 @@ Operating Systems
             src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px>
-</picture> Github Stats
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> Github Stats
 <br>
 
 <p align="center">
@@ -127,8 +114,7 @@ Operating Systems
   </a>
 </p>
 
-## 
-Where I have studied
+## Where I have studied
 <p align='center'>
 
 <img src='assets/alura.jpg' alt='imagen de Alura Latam'>
@@ -138,8 +124,7 @@ Where I have studied
 
 </p>
 
-##
-Most recent courses taken
+## Most recent courses taken
 
 <p align='center'>
 <img src='assets/Oracle1.png' alt='curso Cloud Business Jumpstart: Training and Assessment'>
